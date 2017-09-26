@@ -1,0 +1,13 @@
+body {
+  font-family: "Open Sans";
+  background-color: ivory;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+}
+.sub-section-title {
+  font-family: "Oswald";
+  font-size: large;
+}
+.sub-section-body {
+  font-size: medium;
+}
