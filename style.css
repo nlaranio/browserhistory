@@ -1,38 +1,4 @@
-body {
-  font-family: "Open Sans";
-  background-color: ivory;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-}
-.sub-section-title {
-  font-family: "Oswald";
-  font-size: large;
-}
-.sub-section-body {
-  font-size: medium;
-}
-
-.left-column {
-  float: left;
-  width: 300px;
-}
-
-.middle-column {
-  float: left ;
-  width: 300px;
-  padding-left: 300px;
-}
-
-.right-column {
-  float: right;
-  width: 300px;
-}
-
-.bar {
-  list-style-type: none;
-}
-
-.bar-e {
-  display: inline;
-  padding: 0px 125px 0px 125px;
+.main.container {
+  margin-top: 7em;
+  margin-bottom: 3em;
 }
